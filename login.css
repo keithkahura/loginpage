@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+     }
+     .top-div {     margin: auto;
+          border: solid;
+           border-radius: 40px;
+             border-width: 10px;
+             text-align: center;
+              background-color:red ;
+                 width: 750px;
+                  height: 850px;
+                     padding: 15px;
+                       margin-top: 90px; } 
+      .title {
+         font-size:60px;
+         text-align: center;  } 
+       .credentials {
+           padding:15px ;
+           font-size: 15px;  } 
+        #name { 
+    
+            margin-bottom: 40px; }
+        #sign-in {
+    
+            margin-top: 40px;
+               font-size: 30px;
+                background-color:purple ;
+             }
